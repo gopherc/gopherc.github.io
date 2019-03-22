@@ -1,4 +1,4 @@
 theme: jekyll-theme-modernist
 title: "GopherC.org"
 description: "The Go to C compiler"
-show_downloads: ["https://github.com/gopherc/goc/releases"]
+show_downloads: [https://github.com/gopherc/goc/releases]
