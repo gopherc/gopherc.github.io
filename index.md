@@ -7,6 +7,9 @@ The goal of this project is:
 * Provide a runtime that can be mapped to the standard C library.
 * Multicore support. *(not yet supported)*
 ```
+### Download
+
+[Latest release](https://github.com/gopherc/goc/releases)
 
 ### Acknowledgement
 
