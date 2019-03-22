@@ -8,7 +8,7 @@ The goal of this project is:
 * Multicore support. *(not yet supported)*
 ```
 
-#### Acknowledgement
+### Acknowledgement
 
 [Go](https://www.golang.org) programming language.
 
